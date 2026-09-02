@@ -26,11 +26,9 @@
 </p>
 
 ---
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugoDD&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoDD&layout=compact&theme=dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorHugoDD&theme=dark" alt="Sequência de Contribuições" height="150"/>
 </p>
 
